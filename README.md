@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="62" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="62" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="62" alt="bootstrap logo"  />
@@ -55,9 +55,12 @@
 
 <div align="center">
   <a align="left" href="http://www.github.com/Ramraghul"><img src="https://github-readme-stats.vercel.app/api?username=IswaryaAnandhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="mageshyt's GitHub stats" /></a>
+  
+<a align="right" href="http://www.github.com/IswaryaAnandhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IswaryaAnandhan&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/IswaryaAnandhan"><img src="https://activity-graph.herokuapp.com/graph?username=IswaryaAnandhan&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/IswaryaAnandhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IswaryaAnandhan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=prussian&hide_border=false&username=IswaryaAnandhan" height="150" alt="languages graph"  />
-</div>
+
 
 
