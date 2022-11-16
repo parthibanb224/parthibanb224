@@ -6,25 +6,25 @@
 
 <div align="center"><h3>👋 Hi, I’m @IswaryaAnandhan</h3><br></div>
 
- <div align="left">
+ <p align="left">
   👀 I’m interested in Web Development <br>
   🌱 I’m currently learning MERN (Advance)<br>
   💬 Think smart work like super Hard <br>
   📫 How to reach me **aishwariyaanandhan@gmail.com** <br>
   💞️ I’m looking to collaborate on with other Developers
-</div>
+</p>
 
-
+<br>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IswaryaAnandhan.IswaryaAnandhan&"  />
 </div>
-<hr/>
+
 
 
 <h3 align="center">Connect with me</h3>
 
-
+<hr/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iswarya-a-5bb2211b7/" target="_blank">
@@ -34,12 +34,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="65" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
-<hr/>
+
 
 
 <h3 align="center">Languages and Tools</h3>
 
-
+<hr/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="62" alt="html5 logo"  />
@@ -56,10 +56,10 @@
 </div>
 
 
-<hr/>
+
 <h3 align="center">My Github Stats</h3>
 
-
+<hr/>
 
 <div align="center">
   <a align="left" href="http://www.github.com/Ramraghul"><img src="https://github-readme-stats.vercel.app/api?username=IswaryaAnandhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="mageshyt's GitHub stats" /></a>
