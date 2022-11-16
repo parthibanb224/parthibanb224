@@ -35,7 +35,7 @@
   </a>
 </div>
 
-
+<br/>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="62" alt="vscode logo"  />
 </div>
 
-
+<br/>
 
 <h3 align="center">My Github Stats</h3>
 
