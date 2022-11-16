@@ -10,7 +10,7 @@
   👀 I’m interested in Web Development <br>
   🌱 I’m currently learning MERN (Advance)<br>
   💬 Think smart work like super Hard <br>
-  📫 How to reach me <a target="_blank">aishwariyaanandhan@gmail.com</a>
+  📫 How to reach me <a href="https://www.gmail.com/" target="_blank">aishwariyaanandhan@gmail.com</a><br>
   💞️ I’m looking to collaborate on with other Developers
 </p>
 
