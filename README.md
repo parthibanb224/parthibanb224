@@ -4,14 +4,14 @@
 
 ###
 
-<p align="center"><h3>👋 Hi, I’m @IswaryaAnandhan</h3><br> 👀 I’m interested in Web Development <br>🌱 I’m currently learning MERN (Advance)<br> 💬 Think smart work like super Hard <br>📫 How to reach me **aishwariyaanandhan@gmail.com** <br>💞️ I’m looking to collaborate on with other Developers</p>
+<div align="center"><h3>👋 Hi, I’m @IswaryaAnandhan<br> 👀 I’m interested in Web Development <br>🌱 I’m currently learning MERN (Advance)<br> 💬 Think smart work like super Hard <br>📫 How to reach me **aishwariyaanandhan@gmail.com** <br>💞️ I’m looking to collaborate on with other Developers</h3></div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=IswaryaAnandhan.IswaryaAnandhan&"  />
 </div>
-
+<hr/>
 ###
 
 <h3 align="center">Connect with me</h3>
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="65" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
-
+<hr/>
 ###
 
 <h3 align="center">Languages and Tools</h3>
@@ -48,7 +48,7 @@
 </div>
 
 ###
-
+<hr/>
 <h3 align="center">My Github Stats</h3>
 
 ###
