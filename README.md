@@ -25,9 +25,6 @@
   <a href="https://stackoverflow.com/users/20425868/iswaryaananthan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="65" height="40" alt="stackoverflow logo"  />
   </a>
-  <a href="https://mail.google.com/aishwariyaanandhan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
@@ -62,5 +59,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=prussian&hide_border=false&username=IswaryaAnandhan" height="150" alt="languages graph"  />
 </div>
-###
+
 
