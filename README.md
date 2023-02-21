@@ -28,10 +28,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iswarya-a-5bb2211b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
+    <img src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png" width="65" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/20425868/iswaryaananthan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="65" height="40" alt="stackoverflow logo"  />
+    <img src="https://assets.wired.com/photos/w_1904/wp-content/uploads/2016/07/so-logo-s.jpg" width="65" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
 
