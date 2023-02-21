@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="62" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="62" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="62" alt="react logo"  />
-  <img src="https://th.bing.com/th/id/OIP.fU5QzhHIV3gvhvLfxWDD0AHaE8?pid=ImgDet&rs=1" height="40" width="62" alt="nodejs logo"  />
+  <img src="https://i.pinimg.com/736x/ee/f4/d7/eef4d7374988d783e4b21075c43901c2.jpg" height="40" width="62" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="62" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="62" alt="heroku logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="62" alt="git logo"  />
